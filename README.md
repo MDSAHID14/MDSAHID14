@@ -1,6 +1,6 @@
 - 👋 Hi, I’m MD SAHID
 - 👀 I’m interested in Java Programming
-- 🌱 I’m currently learning Java, Android
+- 🌱 I’m currently working on Android
 - 💞️ I’m working with JES Electronic Systems Pvt Ltd New Delhi
 - 📫 
 
